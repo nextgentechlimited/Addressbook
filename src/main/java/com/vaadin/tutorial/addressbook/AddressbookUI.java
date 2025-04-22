@@ -117,7 +117,7 @@ public class AddressbookUI extends UI {
     }
 
     /*
-     * Choose the design patterns you like.
+     * Choose the design patterns to like the changes.
      *
      * It is good practice to have separate data access methods that handle the
      * back-end access and/or the user interface updates. You can further split
